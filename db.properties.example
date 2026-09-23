@@ -1,0 +1,5 @@
+# Copy this file to db.properties and fill in your own MySQL credentials.
+# db.properties is git-ignored so your real password never gets committed.
+db.url=jdbc:mysql://localhost:3306/hospital_management_system
+db.user=root
+db.password=your_mysql_password
